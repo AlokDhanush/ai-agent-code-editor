@@ -19,6 +19,9 @@ Step 3: Create a virtual environment <br>
   ```
 
 Step 4: Activate your enviroment in the same directory.<br> 
+  ```
+  .\.venv\Scripts\activate
+  ```
 
 Step 5: Add dependencies to the project. <br>
   ```
@@ -41,6 +44,7 @@ Step 7: Run the file using the below command without verbose. Replace your query
   ```
   uv run main.py uv run main.py "your query about the calculator directory" --verbose
   ```
+
 
 
 
