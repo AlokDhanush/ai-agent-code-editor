@@ -1,10 +1,10 @@
 ## Overview
-<br><br>
+<br>
 This project runs an AI agent that can call local functions (under functions/),execute Python files, and respond to queries. The repository contains a dispatcher (call_functions.py) and a main entry (main.py) to run the agent. In the above project the calculator directory is where the agent actually works on (read, write, edit or delete). 
 <br>
 
 ## How to run the project?
-<br><br>
+<br>
 Step 1: Run the below command in the terminal.<br>
   ```
   git clone https://github.com/AlokDhanush/ai-agent-code-editor.git
@@ -43,6 +43,7 @@ Step 7: Run the file using the below command without verbose. Replace your query
   ```
   uv run main.py uv run main.py "your query about the calculator directory" --verbose
   ```
+
 
 
 
