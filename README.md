@@ -42,8 +42,9 @@ Step 7: Run the file using the below command without verbose. Replace your query
 (OR) with verbose to see more detailed output of token counts. <br>
   
   ```
-  uv run main.py uv run main.py "your query about the calculator directory" --verbose
+  uv run main.py "your query about the calculator directory" --verbose
   ```
+
 
 
 
